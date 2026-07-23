@@ -1,0 +1,685 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\mysore\\inputoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|solutionrelative:mysore\\inputoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\mysore\\inputoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|solutionrelative:mysore\\inputoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\mysore\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|solutionrelative:mysore\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\mysore\\output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|solutionrelative:mysore\\output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|d:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\mysore\\mysore\\output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|solutionrelative:mysore\\output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\mysore\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|solutionrelative:mysore\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\mysore\\addnewitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|solutionrelative:mysore\\addnewitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\mysore\\addnewitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|solutionrelative:mysore\\addnewitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\mysore\\addingnewinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|solutionrelative:mysore\\addingnewinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\mysore\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|solutionrelative:mysore\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\mysore\\sqlitehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|solutionrelative:mysore\\sqlitehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\mysore\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|solutionrelative:mysore\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\mysore\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|solutionrelative:mysore\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\mysore\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|solutionrelative:mysore\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\mysore\\edituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|solutionrelative:mysore\\edituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\mysore\\reg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|solutionrelative:mysore\\reg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\mysore\\addnewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|solutionrelative:mysore\\addnewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\mysore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|solutionrelative:mysore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\mysore\\mycon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|solutionrelative:mysore\\mycon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\mysore\\addnewunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|solutionrelative:mysore\\addnewunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\mysore\\addingnewinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|solutionrelative:mysore\\addingnewinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\mysore\\addnewitem.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|solutionrelative:mysore\\addnewitem.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\mysore\\units.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|solutionrelative:mysore\\units.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\mysore\\master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|solutionrelative:mysore\\master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\mysore\\master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|solutionrelative:mysore\\master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\mysore\\master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|solutionrelative:mysore\\master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\mysore\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|solutionrelative:mysore\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\mysore\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|solutionrelative:mysore\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\mysore\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|solutionrelative:mysore\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\mysore\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|solutionrelative:mysore\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\mysore\\units.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|solutionrelative:mysore\\units.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\mysore\\addnewunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|solutionrelative:mysore\\addnewunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\mysore\\master.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|solutionrelative:mysore\\master.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\mysore\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|solutionrelative:mysore\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\mysore\\unitedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|solutionrelative:mysore\\unitedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\mysore\\unitedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|solutionrelative:mysore\\unitedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\mysore\\editem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|solutionrelative:mysore\\editem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\mysore\\reg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|solutionrelative:mysore\\reg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\mysore\\output.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|solutionrelative:mysore\\output.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\mysore\\input.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|solutionrelative:mysore\\input.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\mysore\\reg.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE3244E-7477-49CA-8C06-DD1D67B0FEFD}|MySore\\MyStore.csproj|solutionrelative:mysore\\reg.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 282,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddNewUnit.cs",
+              "DocumentMoniker": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\AddNewUnit.cs",
+              "RelativeDocumentMoniker": "MySore\\AddNewUnit.cs",
+              "ToolTip": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\AddNewUnit.cs",
+              "RelativeToolTip": "MySore\\AddNewUnit.cs",
+              "ViewState": "AQIAABoAAADg/////387wDAAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T17:57:50.462Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "output.cs [Design]",
+              "DocumentMoniker": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\output.cs",
+              "RelativeDocumentMoniker": "MySore\\output.cs",
+              "ToolTip": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\output.cs [Design]",
+              "RelativeToolTip": "MySore\\output.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T17:23:21.23Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "inputOutput.cs [Design]",
+              "DocumentMoniker": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\inputOutput.cs",
+              "RelativeDocumentMoniker": "MySore\\inputOutput.cs",
+              "ToolTip": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\inputOutput.cs [Design]",
+              "RelativeToolTip": "MySore\\inputOutput.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T00:50:26.961Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "addNewItem.cs [Design]",
+              "DocumentMoniker": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\addNewItem.cs",
+              "RelativeDocumentMoniker": "MySore\\addNewItem.cs",
+              "ToolTip": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\addNewItem.cs [Design]",
+              "RelativeToolTip": "MySore\\addNewItem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T01:12:54.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "addNewItem.cs",
+              "DocumentMoniker": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\addNewItem.cs",
+              "RelativeDocumentMoniker": "MySore\\addNewItem.cs",
+              "ToolTip": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\addNewItem.cs",
+              "RelativeToolTip": "MySore\\addNewItem.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAWwEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T01:12:56.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "input.cs [Design]",
+              "DocumentMoniker": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\input.cs",
+              "RelativeDocumentMoniker": "MySore\\input.cs",
+              "ToolTip": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\input.cs [Design]",
+              "RelativeToolTip": "MySore\\input.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:09:23.552Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "input.cs",
+              "DocumentMoniker": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\input.cs",
+              "RelativeDocumentMoniker": "MySore\\input.cs",
+              "ToolTip": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\input.cs",
+              "RelativeToolTip": "MySore\\input.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAWwIQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T17:46:08.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "output.cs",
+              "DocumentMoniker": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\output.cs",
+              "RelativeDocumentMoniker": "MySore\\output.cs",
+              "ToolTip": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\output.cs",
+              "RelativeToolTip": "MySore\\output.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAD4v2EAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T17:24:18.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "inputOutput.cs",
+              "DocumentMoniker": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\inputOutput.cs",
+              "RelativeDocumentMoniker": "MySore\\inputOutput.cs",
+              "ToolTip": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\inputOutput.cs",
+              "RelativeToolTip": "MySore\\inputOutput.cs",
+              "ViewState": "AQIAAFgBAAAAAAAAAAAAAG0BAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T00:50:30.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Items.cs",
+              "DocumentMoniker": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\Items.cs",
+              "RelativeDocumentMoniker": "MySore\\Items.cs",
+              "ToolTip": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\Items.cs",
+              "RelativeToolTip": "MySore\\Items.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAADgvwwBAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T22:55:21.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Items.cs [Design]",
+              "DocumentMoniker": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\Items.cs",
+              "RelativeDocumentMoniker": "MySore\\Items.cs",
+              "ToolTip": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\Items.cs [Design]",
+              "RelativeToolTip": "MySore\\Items.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T22:55:20.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MyCon.cs",
+              "DocumentMoniker": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\MyCon.cs",
+              "RelativeDocumentMoniker": "MySore\\MyCon.cs",
+              "ToolTip": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\MyCon.cs",
+              "RelativeToolTip": "MySore\\MyCon.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwCAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T17:39:34.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\Program.cs",
+              "RelativeDocumentMoniker": "MySore\\Program.cs",
+              "ToolTip": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\Program.cs",
+              "RelativeToolTip": "MySore\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:21:48.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddingNewInput.cs [Design]",
+              "DocumentMoniker": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\AddingNewInput.cs",
+              "RelativeDocumentMoniker": "MySore\\AddingNewInput.cs",
+              "ToolTip": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\AddingNewInput.cs [Design]",
+              "RelativeToolTip": "MySore\\AddingNewInput.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:46:03.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SqliteHelper.cs",
+              "DocumentMoniker": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\SqliteHelper.cs",
+              "RelativeDocumentMoniker": "MySore\\SqliteHelper.cs",
+              "ToolTip": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\SqliteHelper.cs",
+              "RelativeToolTip": "MySore\\SqliteHelper.cs",
+              "ViewState": "AQIAAF8BAAAAAAAAAAAcwIABAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:17:42.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddNewUser.cs [Design]",
+              "DocumentMoniker": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\AddNewUser.cs",
+              "RelativeDocumentMoniker": "MySore\\AddNewUser.cs",
+              "ToolTip": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\AddNewUser.cs [Design]",
+              "RelativeToolTip": "MySore\\AddNewUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T11:59:22.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\Users.cs",
+              "RelativeDocumentMoniker": "MySore\\Users.cs",
+              "ToolTip": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\Users.cs",
+              "RelativeToolTip": "MySore\\Users.cs",
+              "ViewState": "AQIAANsAAAAAAAAAAAAowPAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T12:02:34.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Users.cs [Design]",
+              "DocumentMoniker": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\Users.cs",
+              "RelativeDocumentMoniker": "MySore\\Users.cs",
+              "ToolTip": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\Users.cs [Design]",
+              "RelativeToolTip": "MySore\\Users.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T12:00:16.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "reg.cs [Design]",
+              "DocumentMoniker": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\reg.cs",
+              "RelativeDocumentMoniker": "MySore\\reg.cs",
+              "ToolTip": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\reg.cs [Design]",
+              "RelativeToolTip": "MySore\\reg.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:21:23.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EditUser.cs [Design]",
+              "DocumentMoniker": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\EditUser.cs",
+              "RelativeDocumentMoniker": "MySore\\EditUser.cs",
+              "ToolTip": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\EditUser.cs [Design]",
+              "RelativeToolTip": "MySore\\EditUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T17:57:40.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddingNewInput.cs",
+              "DocumentMoniker": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\AddingNewInput.cs",
+              "RelativeDocumentMoniker": "MySore\\AddingNewInput.cs",
+              "ToolTip": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\AddingNewInput.cs",
+              "RelativeToolTip": "MySore\\AddingNewInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T16:01:43.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "addNewItem.Designer.cs",
+              "DocumentMoniker": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\addNewItem.Designer.cs",
+              "RelativeDocumentMoniker": "MySore\\addNewItem.Designer.cs",
+              "ToolTip": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\addNewItem.Designer.cs",
+              "RelativeToolTip": "MySore\\addNewItem.Designer.cs",
+              "ViewState": "AQIAAGEBAAAAAAAAAAApwHYBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T00:23:22.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Units.cs [Design]",
+              "DocumentMoniker": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\Units.cs",
+              "RelativeDocumentMoniker": "MySore\\Units.cs",
+              "ToolTip": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\Units.cs [Design]",
+              "RelativeToolTip": "MySore\\Units.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T17:51:21.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Master.Designer.cs",
+              "DocumentMoniker": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\Master.Designer.cs",
+              "RelativeDocumentMoniker": "MySore\\Master.Designer.cs",
+              "ToolTip": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\Master.Designer.cs",
+              "RelativeToolTip": "MySore\\Master.Designer.cs",
+              "ViewState": "AQIAANMCAAAAAAAAAAAcwOECAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T00:48:55.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\Form1.cs",
+              "RelativeDocumentMoniker": "MySore\\Form1.cs",
+              "ToolTip": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\Form1.cs",
+              "RelativeToolTip": "MySore\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T00:56:07.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\DataBase.cs",
+              "RelativeDocumentMoniker": "MySore\\DataBase.cs",
+              "ToolTip": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\DataBase.cs",
+              "RelativeToolTip": "MySore\\DataBase.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAWwCkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T22:58:59.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\Form1.cs",
+              "RelativeDocumentMoniker": "MySore\\Form1.cs",
+              "ToolTip": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\Form1.cs [Design]",
+              "RelativeToolTip": "MySore\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:41:31.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Master.cs [Design]",
+              "DocumentMoniker": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\Master.cs",
+              "RelativeDocumentMoniker": "MySore\\Master.cs",
+              "ToolTip": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\Master.cs [Design]",
+              "RelativeToolTip": "MySore\\Master.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T21:43:37.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Master.cs",
+              "DocumentMoniker": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\Master.cs",
+              "RelativeDocumentMoniker": "MySore\\Master.cs",
+              "ToolTip": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\Master.cs",
+              "RelativeToolTip": "MySore\\Master.cs",
+              "ViewState": "AQIAAHIAAAAAlpmZmZkYwIcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T21:43:39.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DataBase.cs [Design]",
+              "DocumentMoniker": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\DataBase.cs",
+              "RelativeDocumentMoniker": "MySore\\DataBase.cs",
+              "ToolTip": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\DataBase.cs [Design]",
+              "RelativeToolTip": "MySore\\DataBase.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T01:12:34.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Units.cs",
+              "DocumentMoniker": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\Units.cs",
+              "RelativeDocumentMoniker": "MySore\\Units.cs",
+              "ToolTip": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\Units.cs",
+              "RelativeToolTip": "MySore\\Units.cs",
+              "ViewState": "AQIAAAEBAAAAAAAAAIAwwC0BAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T17:51:52.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AddNewUnit.cs [Design]",
+              "DocumentMoniker": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\AddNewUnit.cs",
+              "RelativeDocumentMoniker": "MySore\\AddNewUnit.cs",
+              "ToolTip": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\AddNewUnit.cs [Design]",
+              "RelativeToolTip": "MySore\\AddNewUnit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T17:57:46.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\App.config",
+              "RelativeDocumentMoniker": "MySore\\App.config",
+              "ToolTip": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\App.config",
+              "RelativeToolTip": "MySore\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-23T22:23:16.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Master.resx",
+              "DocumentMoniker": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\Master.resx",
+              "RelativeDocumentMoniker": "MySore\\Master.resx",
+              "ToolTip": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\Master.resx",
+              "RelativeToolTip": "MySore\\Master.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-04-13T21:19:33.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UnitEdit.cs",
+              "DocumentMoniker": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\UnitEdit.cs",
+              "RelativeDocumentMoniker": "MySore\\UnitEdit.cs",
+              "ToolTip": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\UnitEdit.cs",
+              "RelativeToolTip": "MySore\\UnitEdit.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAnwBkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T19:04:04.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UnitEdit.cs [Design]",
+              "DocumentMoniker": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\UnitEdit.cs",
+              "RelativeDocumentMoniker": "MySore\\UnitEdit.cs",
+              "ToolTip": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\UnitEdit.cs [Design]",
+              "RelativeToolTip": "MySore\\UnitEdit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T19:04:01.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "EdItem.cs [Design]",
+              "DocumentMoniker": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\EdItem.cs",
+              "RelativeDocumentMoniker": "MySore\\EdItem.cs",
+              "ToolTip": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\EdItem.cs [Design]",
+              "RelativeToolTip": "MySore\\EdItem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T01:12:52.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "reg.cs",
+              "DocumentMoniker": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\reg.cs",
+              "RelativeDocumentMoniker": "MySore\\reg.cs",
+              "ToolTip": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\reg.cs",
+              "RelativeToolTip": "MySore\\reg.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAgwIkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:21:25.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "output.Designer.cs",
+              "DocumentMoniker": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\output.Designer.cs",
+              "RelativeDocumentMoniker": "MySore\\output.Designer.cs",
+              "ToolTip": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\output.Designer.cs",
+              "RelativeToolTip": "MySore\\output.Designer.cs",
+              "ViewState": "AQIAAKgBAAAAAAAAAAArwBQCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T17:23:24.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "input.Designer.cs",
+              "DocumentMoniker": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\input.Designer.cs",
+              "RelativeDocumentMoniker": "MySore\\input.Designer.cs",
+              "ToolTip": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\input.Designer.cs",
+              "RelativeToolTip": "MySore\\input.Designer.cs",
+              "ViewState": "AQIAALoBAAAAAAAAAAArwMsBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T17:20:37.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "reg.Designer.cs",
+              "DocumentMoniker": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\reg.Designer.cs",
+              "RelativeDocumentMoniker": "MySore\\reg.Designer.cs",
+              "ToolTip": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0628\u0648 \u0645\u0648\u0633\u0649\\MySore\\MySore\\reg.Designer.cs",
+              "RelativeToolTip": "MySore\\reg.Designer.cs",
+              "ViewState": "AQIAANcAAAAAAAAAAAAwwOYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T02:23:17.43Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 137,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
